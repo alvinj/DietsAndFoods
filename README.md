@@ -12,3 +12,6 @@ including:
 So far I’ve mostly just collected some data and written
 a few small test programs.
 
+
+Alvin Alexander
+http://alvinalexander.com
